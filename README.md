@@ -89,7 +89,7 @@ The model demonstrates strong performance and generalization across unseen MRI i
 **Mudit Shrivastav**  
 🎓 AI & ML Enthusiast | Deep Learning Developer  
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or contribute to improve the model.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/mudit-shrivastav-81199326a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BwaCiXUJBTQO32KUenzKdxw%3D%3D) or contribute to improve the model.
 
 ---
 
